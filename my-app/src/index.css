@@ -47,7 +47,7 @@ body {
 .container_header {
     flex-direction: column;
     height: 150px;
-    background: url(https://yourthings.herokuapp.com/static/media/bg.377c597d.jpg) center no-repeat;
+    background: url(./img/bg_header.jpg) center no-repeat;
     background-size: cover;
     padding: 30px;
     font-size: 50px;
